@@ -79,6 +79,21 @@ obj1.getData()
 print(obj1.num)
 print(obj1.Add())
 
-print("======== Inheretance ================")
+print("======== Strings ================")
 
+str = "bhanupratap com"
+str1 = "reddy"
+str2 = "velamuri"
+print(str[5])
+print(str[5:7])
+print(str + str1)
+print(str in str2) #check
+var = str.split("a")
+print(var)
+print(var[0])
 
+str4 = " Great "
+print(str4.strip())
+print(str4.lstrip())
+print(str4.rstrip())
+print("=======================")
