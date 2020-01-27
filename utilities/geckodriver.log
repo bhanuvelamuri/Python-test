@@ -1,0 +1,121 @@
+1580004112589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezX3MhT"
+1580004118604	Marionette	INFO	Listening on port 46459
+1580004118715	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580004512178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLXpRZG"
+1580004516937	Marionette	INFO	Listening on port 36457
+1580004517005	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580004540613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesf8Gp9"
+1580004545644	Marionette	INFO	Listening on port 43091
+1580004545733	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580004633245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP8F4uI"
+1580004637974	Marionette	INFO	Listening on port 39059
+1580004638060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580004674285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC02CzM"
+1580004679080	Marionette	INFO	Listening on port 40497
+1580004679113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580076565345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile09J1ou"
+1580076570798	Marionette	INFO	Listening on port 33969
+1580076570863	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580076616216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesXRovz"
+1580076620739	Marionette	INFO	Listening on port 41463
+1580076620832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580076645971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOKAKSj"
+1580076650909	Marionette	INFO	Listening on port 37061
+1580076650990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580077063425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9kpYpQ"
+1580077069045	Marionette	INFO	Listening on port 41973
+1580077069145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580077124778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenJ73Yo"
+1580077129259	Marionette	INFO	Listening on port 34545
+1580077129300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580077174642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWqd0yy"
+1580077179256	Marionette	INFO	Listening on port 46601
+1580077179267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580077560813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei8fLyw"
+1580077565768	Marionette	INFO	Listening on port 38989
+1580077565830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580077695903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG7HM3j"
+1580077700929	Marionette	INFO	Listening on port 38105
+1580077701018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+1580077783075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMs052X"
+1580077788496	Marionette	INFO	Listening on port 37229
+1580077788592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580083937010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehr7kP8"
+1580083940603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5UKRWX"
+1580083945008	Marionette	INFO	Listening on port 37337
+1580083945019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+1580083969248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep335y6"
+1580083974268	Marionette	INFO	Listening on port 45827
+1580083974365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1580084039446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCnMGCR"
+1580084044863	Marionette	INFO	Listening on port 43525
+1580084044962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580084112612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA0xGKM"
+1580084117612	Marionette	INFO	Listening on port 43637
+1580084117650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580084203291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTTg9bs"
+1580084208563	Marionette	INFO	Listening on port 42391
+1580084208614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1580084232154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMYV9qc"
+1580084237175	Marionette	INFO	Listening on port 42379
+1580084237279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://exciteservices.net/vendor/bootstrap/js/bootstrap.bundle.min.js, line 6: TypeError: i is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

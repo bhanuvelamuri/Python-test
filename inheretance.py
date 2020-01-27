@@ -3,6 +3,7 @@ from demo import Calculator
 
 class child(Calculator):
     num2 = 200
+
     def __init__(self):
         Calculator.__init__(self, 2, 4)
 
